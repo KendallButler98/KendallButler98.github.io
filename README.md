@@ -12,9 +12,9 @@ Now that I have earned my PhD, I look forward to taking the next steps in my car
 
 ### 1 - Neuronal traveling waves form preferred pathways using synaptic plasticity - Published in the Journal of Computational Neuroscience
 
-**link to open-access paper:** https://link.springer.com/article/10.1007/s10827-024-00890-2
+**link to open-access paper:** [(https://link.springer.com/article/10.1007/s10827-024-00890-2)]
 
-**repository:** https://github.com/kjb-research/JCN-Traveling-Wave-Pathways
+**repository:** [(https://github.com/kjb-research/JCN-Traveling-Wave-Pathways)]
 
 This paper simulated traveling waves through a thin (3-layer) sheet of neurons using various mechanisms of input stimulation. The neurons in these simulations (like real neurons) communicated via synapses. Put simply, each neuron has many input synapses from other neurons. When enough stimulation is recieved from those synapses, the neuron fires and it sends its own signal. When that signal reaches it's synapses, stimulation is input into those neurons in turn. We include synaptic plasticity (the ability of synapses to change with activity) in the form of Spike-Timing Dependent Plasticity (STDP), where if the neuron sending a signal spikes before the neuron recieving it, that synapse is strengthened! If the opposite occurs (a negative correlation) that synapse is weakened instead. With the addition of STDP to a network with traveling waves, directional pathways were formed over time in all cases, which we visualized using vector fields of average weight changes for each region.
 
@@ -22,7 +22,7 @@ This paper simulated traveling waves through a thin (3-layer) sheet of neurons u
 
 This is the dissertation thesis I wrote and defended in order to earn my PhD from Drexel University. It includes all meaningful projects I completed during my time with the Computational Biophysics group. 
 
-**Link to open-access dissertation:** https://researchdiscovery.drexel.edu/esploro/outputs/doctoral/Pathway-formation-and-dynamical-transitions-by/991022057536604721
+**Link to open-access dissertation:** [(https://researchdiscovery.drexel.edu/esploro/outputs/doctoral/Pathway-formation-and-dynamical-transitions-by/991022057536604721)]
 
 #### Breakdown of Thesis parts/projects
 
