@@ -7,7 +7,7 @@
   <a href="#projects">Projects</a>
 </nav>
 
-## 📫 Contact
+## Contact
 
 - Email: [![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:butlerkend14@gmail.com)
 - LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/kendall-butler-b4ba63157/)
