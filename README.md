@@ -2,9 +2,8 @@
 
 ## 📫 Contact
 
-- Email: [butlerkend14@gmail.com](mailto:butlerkend14@gmail.com)
+- Email: [![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:butlerkend14@gmail.com)
 - LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/kendall-butler-b4ba63157/)
-- LinkedIn: [linkedin.com/in/kendall-butler-b4ba63157/](https://linkedin.com/in/kendall-butler-b4ba63157/)
 - GitHub: [https://github.com/KendallButler98](https://github.com/KendallButler98)
 
 ## Introduction
