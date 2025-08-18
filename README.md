@@ -40,7 +40,9 @@ Now that I have earned my PhD, I look forward to taking the next steps in my car
 - Communication (teaching, writing)
 
 **Additional Experience**
-- Passing experience in: C++, MATLAB
+- C++
+- MATLAB
+- PyTorch (surrogate gradient learning)
 
 ## Projects
 
