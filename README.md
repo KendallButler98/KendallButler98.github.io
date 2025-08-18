@@ -12,7 +12,7 @@ Now that I have earned my PhD, I look forward to taking the next steps in my car
 
 ### 1 - Neuronal traveling waves form preferred pathways using synaptic plasticity - Published in the Journal of Computational Neuroscience
 
-**link to open-access paper:** [(https://link.springer.com/article/10.1007/s10827-024-00890-2)]
+**link to open-access paper:** [https://link.springer.com/article/10.1007/s10827-024-00890-2](https://link.springer.com/article/10.1007/s10827-024-00890-2)
 
 **repository:** [(https://github.com/kjb-research/JCN-Traveling-Wave-Pathways)]
 
