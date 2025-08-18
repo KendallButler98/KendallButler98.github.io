@@ -1,4 +1,4 @@
-# Kendall Jon Butler
+# Kendall J. Butler
 
 <nav>
   <a href="#contact">Contact</a> |
