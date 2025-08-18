@@ -1,10 +1,9 @@
 # Kendall Jon Butler
 
 <nav>
+  <a href="#contact">Contact</a>
   <a href="#about">About</a>
   <a href="#projects">Projects</a>
-  <a href="#publications">Publications</a>
-  <a href="#contact">Contact</a>
 </nav>
 
 ## 📫 Contact
@@ -59,3 +58,9 @@ This is the dissertation thesis I wrote and defended in order to earn my PhD fro
 7. **Appendix E** - Visualization of the effects that adjusting various network parameters has on wave propagation
 
 ### Project 3 - (Additional Portfolio Projects Forthcoming)
+
+<nav>
+  <a href="#contact">Contact</a>
+  <a href="#about">About</a>
+  <a href="#projects">Projects</a>
+</nav>
