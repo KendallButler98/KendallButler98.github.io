@@ -1,12 +1,19 @@
 # Kendall Jon Butler
 
+<nav>
+  <a href="#about">About</a>
+  <a href="#projects">Projects</a>
+  <a href="#publications">Publications</a>
+  <a href="#contact">Contact</a>
+</nav>
+
 ## 📫 Contact
 
 - Email: [![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:butlerkend14@gmail.com)
 - LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/kendall-butler-b4ba63157/)
 - GitHub: [https://github.com/KendallButler98](https://github.com/KendallButler98)
 
-## Introduction
+## About
 
 As an entry level data scientist, I look forward to directing my skills toward bringing insight and data-driven solutions to my future company. As a PhD, I am confident in my ability to adapt to new problems and persevere through difficult projects. This page will serve as a homepage, presenting my major projects in addition to some additional forthcoming portfolio projects, but first, here is a bit more about me:
 
@@ -14,9 +21,17 @@ I earned a BS in physics from the University of Maine in 2020, getting highest h
 
 Now that I have earned my PhD, I look forward to taking the next steps in my career. With years of experience working and teaching using python, I have a solid bedrock on which to begin a career in data-science. In addition, my experience in physics and my work as a PhD researcher have given me excellent tools, including problem solving, adaptability and perseverance through difficult projects. I am confident that I can learn and adapt to any challenges that I may face as a data scientist, and am excited to leverage my skillset to bring data-focused insights to problems that are faced by my future employer.
 
+### Skills:
+- Python
+- Data Analysis
+- Problem Solving
+- Numerical Simulation
+- Communication (teaching, writing)
+- Passing experience in: C++, MATLAB
+
 ## Projects
 
-### 1 - Neuronal traveling waves form preferred pathways using synaptic plasticity - Published in the Journal of Computational Neuroscience
+### Project 1 - Neuronal traveling waves form preferred pathways using synaptic plasticity - Published in the Journal of Computational Neuroscience
 
 **link to open-access paper:** [https://link.springer.com/article/10.1007/s10827-024-00890-2](https://link.springer.com/article/10.1007/s10827-024-00890-2)
 
@@ -24,7 +39,7 @@ Now that I have earned my PhD, I look forward to taking the next steps in my car
 
 This paper simulated traveling waves through a thin (3-layer) sheet of neurons using various mechanisms of input stimulation. The neurons in these simulations (like real neurons) communicated via synapses. Put simply, each neuron has many input synapses from other neurons. When enough stimulation is received from those synapses, the neuron fires and it sends its own signal. When that signal reaches its synapses, stimulation is input into those neurons in turn. We include synaptic plasticity (the ability of synapses to change with activity) in the form of Spike-Timing Dependent Plasticity (STDP), where if the neuron sending a signal spikes before the neuron receiving it, that synapse is strengthened! If the opposite occurs (a negative correlation) that synapse is weakened instead. With the addition of STDP to a network with traveling waves, directional pathways were formed over time in all cases, which we visualized using vector fields of average weight changes for each region.
 
-### 2 - Neuronal traveling waves form preferred pathways using synaptic plasticity - Dissertation Thesis
+### Project 2 - Neuronal traveling waves form preferred pathways using synaptic plasticity - Dissertation Thesis
 
 This is the dissertation thesis I wrote and defended in order to earn my PhD from Drexel University. It includes all meaningful projects I completed during my time with the Computational Biophysics group. 
 
@@ -43,4 +58,4 @@ This is the dissertation thesis I wrote and defended in order to earn my PhD fro
 6. **Appendix D** - Additional projects, including additional neuron types, synapse models, surrogate gradient learning (BPTT for spiking signals) using PyTorch, and the effects of network damage on wave propagation
 7. **Appendix E** - Visualization of the effects that adjusting various network parameters has on wave propagation
 
-### 3 - Additional Portfolio Projects (Forthcoming)
+### Project 3 - (Additional Portfolio Projects Forthcoming)
