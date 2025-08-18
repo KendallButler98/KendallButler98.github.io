@@ -1,9 +1,9 @@
 # Kendall Jon Butler
 
 <nav>
-  <a href="#contact">Contact</a>
-  <a href="#about">About</a>
-  <a href="#skills">Skills</a>
+  <a href="#contact">Contact</a> |
+  <a href="#about">About</a> |
+  <a href="#skills">Skills</a> |
   <a href="#projects">Projects</a>
 </nav>
 
@@ -61,8 +61,8 @@ This is the dissertation thesis I wrote and defended in order to earn my PhD fro
 ### Project 3 - (Additional Portfolio Projects Forthcoming)
 
 <nav>
-  <a href="#contact">Contact</a>
-  <a href="#about">About</a>
-  <a href="#skills">Skills</a>
+  <a href="#contact">Contact</a> |
+  <a href="#about">About</a> |
+  <a href="#skills">Skills</a> |
   <a href="#projects">Projects</a>
 </nav>
