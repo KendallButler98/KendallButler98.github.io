@@ -63,5 +63,6 @@ This is the dissertation thesis I wrote and defended in order to earn my PhD fro
 <nav>
   <a href="#contact">Contact</a>
   <a href="#about">About</a>
+  <a href="#skills">Skills</a>
   <a href="#projects">Projects</a>
 </nav>
