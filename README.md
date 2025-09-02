@@ -29,19 +29,22 @@ While starting out with the Computational Biophysics Group, I rewrote a previous
 
 Now that I have earned my PhD, I look forward to taking the next steps in my career. With years of experience teaching and working in Python, I have a solid foundation to begin a career in data science. My experience in physics and as a PhD researcher has given me excellent tools, including problem solving, adaptability, and perseverance. I am confident I can learn and adapt to new challenges as a data scientist and am excited to leverage my skills to bring data-focused insights to my future employer.
 
-### Skills:
+## Skills:
 
-**Core Skills**
+**Proficient In:**
 - Python
 - Data Analysis
 - Problem Solving
 - Numerical Simulation
 - Communication (teaching, writing)
 
-**Additional Experience**
+**Familiar with:**
+- Pandas
+- Machine Learning (PyTorch, Scikitlearn)
+- SQL
+- SciPy
 - C++
 - MATLAB
-- PyTorch (surrogate gradient learning)
 
 ## Projects
 
@@ -73,6 +76,12 @@ This is the dissertation thesis I wrote and defended in order to earn my PhD fro
 7. **Appendix E** - Visualization of the effects that adjusting various network parameters has on wave propagation
 
 ### Project 3 - (Additional Portfolio Projects Forthcoming)
+
+- Additional projects demonstrating data analysis and machine learning will be added here
+
+--- 
+
+I look forward to connecting!
 
 <nav>
   <a href="#contact">Contact</a> |
