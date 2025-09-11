@@ -23,7 +23,7 @@ I am an entry level data scientist excited to apply my skills to deliver data-dr
 - **MS Physics**, Drexel University (2022)
 - **BS Physics**, University of Maine (2020, Highest Honors)
 
-I earned a BS in physics from the University of Maine in 2020, getting highest honors for my thesis "Investigating the Stability of Observed Low Semi-major Axis Exoplanetary Systems With Hypothetical Outer Planets Using The Program Mercury6". This included the plotting of various simulation data using Python. After college, I went on to pursue a PhD in Physics from Drexel University. At first I worked with a multi-school collaboration called PROSPECT, for which I analyzed background radiation data using C++ in order to help remove background effects from their results. Later that year, I joined the Computational Biophysics group and began work on simulation of biologically inspired neuronal networks, specifically simulating traveling waves through sheets of neurons. 
+I earned a BS in physics from the University of Maine in 2020, getting highest honors for my thesis "Investigating the Stability of Observed Low Semi-major Axis Exoplanetary Systems With Hypothetical Outer Planets Using The Program Mercury6". This included the plotting of various simulation data using Python. After college, I went on to pursue a PhD in Physics from Drexel University. At first, I worked with a multi-school collaboration called PROSPECT, for which I analyzed background radiation data using C++ in order to help remove background effects from their results. Later that year, I joined the Computational Biophysics group and began work on simulation of biologically inspired neuronal networks, specifically simulating traveling waves through sheets of neurons. 
 
 While starting out with the Computational Biophysics Group, I rewrote a previous student's code, transferring our project from MATLAB to Python using the BRIAN neural simulator. After four years of research, I earned a PhD for my dissertation titled "Pathway Formation and Dynamical Transitions by Neuronal Traveling Waves with Plasticity". Part of this work is published in the Journal of Computational Neuroscience as "Neuronal traveling waves form preferred pathways using synaptic plasticity". Links to these works in addition to a repository for recreation of results in this published paper are included in the projects section of this page. 
 
@@ -38,7 +38,7 @@ Now that I have earned my PhD, I look forward to taking the next steps in my car
 - Numerical Simulation
 - Communication (teaching, writing)
 
-**Familiar with:**
+**Actively Learning:**
 - SQL
 - Machine Learning (PyTorch, Scikitlearn)
 - SciPy
