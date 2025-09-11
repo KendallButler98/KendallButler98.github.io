@@ -19,36 +19,36 @@ I look forward to hearing from you!
 I am an entry level data scientist excited to apply my skills to deliver data-driven insights and solutions. With a recent PhD in Physics, I offer persistence, adaptability, and tested problem-solving ability.
 
 **Education and PhD Research Summary:**
-- **BS Physics**, University of Maine (2020, Highest Honors)
-- **MS Physics**, Drexel University (2022)
 - **PhD Physics**, Drexel University (2025)
+- **MS Physics**, Drexel University (2022)
+- **BS Physics**, University of Maine (2020, Highest Honors)
 
 I earned a BS in physics from the University of Maine in 2020, getting highest honors for my thesis "Investigating the Stability of Observed Low Semi-major Axis Exoplanetary Systems With Hypothetical Outer Planets Using The Program Mercury6". This included the plotting of various simulation data using Python. After college, I went on to pursue a PhD in Physics from Drexel University. At first I worked with a multi-school collaboration called PROSPECT, for which I analyzed background radiation data using C++ in order to help remove background effects from their results. Later that year, I joined the Computational Biophysics group and began work on simulation of biologically inspired neuronal networks, specifically simulating traveling waves through sheets of neurons. 
 
 While starting out with the Computational Biophysics Group, I rewrote a previous student's code, transferring our project from MATLAB to Python using the BRIAN neural simulator. After four years of research, I earned a PhD for my dissertation titled "Pathway Formation and Dynamical Transitions by Neuronal Traveling Waves with Plasticity". Part of this work is published in the Journal of Computational Neuroscience as "Neuronal traveling waves form preferred pathways using synaptic plasticity". Links to these works in addition to a repository for recreation of results in this published paper are included in the projects section of this page. 
 
-Now that I have earned my PhD, I look forward to taking the next steps in my career. With years of experience teaching and working in Python, I have a solid foundation to begin a career in data science. My experience in physics and as a PhD researcher has given me excellent tools, including problem solving, adaptability, and perseverance. I am confident I can learn and adapt to new challenges as a data scientist and am excited to leverage my skills to bring data-focused insights to my future employer.
+Now that I have earned my PhD, I look forward to taking the next steps in my career. With years of experience teaching and working in Python, I have a solid foundation for a career in data science. My experience in physics and as a PhD researcher has given me excellent tools, including problem solving, adaptability, and perseverance. I am confident I can learn and adapt to new challenges as a data scientist and am excited to leverage my skills to bring data-focused insights to my future employer.
 
 ## Skills:
 
 **Proficient In:**
-- Python
+- Python (NumPy, Matplotlib, Pandas)
 - Data Analysis
 - Problem Solving
 - Numerical Simulation
 - Communication (teaching, writing)
 
 **Familiar with:**
-- Pandas
-- Machine Learning (PyTorch, Scikitlearn)
 - SQL
+- Machine Learning (PyTorch, Scikitlearn)
 - SciPy
 - C++
 - MATLAB
+- Power BI
 
 ## Projects
 
-### Project 1 - Neuronal traveling waves form preferred pathways using synaptic plasticity - Published in the Journal of Computational Neuroscience
+### 1 - Neuronal traveling waves form preferred pathways using synaptic plasticity - Published in the Journal of Computational Neuroscience
 
 **link to open-access paper:** [https://link.springer.com/article/10.1007/s10827-024-00890-2](https://link.springer.com/article/10.1007/s10827-024-00890-2)
 
@@ -56,7 +56,7 @@ Now that I have earned my PhD, I look forward to taking the next steps in my car
 
 This paper simulated traveling waves through a thin (3-layer) sheet of neurons using various mechanisms of input stimulation. The neurons in these simulations (like real neurons) communicated via synapses. Put simply, each neuron has many input synapses from other neurons. When enough stimulation is received from those synapses, the neuron fires and it sends its own signal. When that signal reaches its synapses, stimulation is input into those neurons in turn. We include synaptic plasticity (the ability of synapses to change with activity) in the form of Spike-Timing Dependent Plasticity (STDP), where if the neuron sending a signal spikes before the neuron receiving it, that synapse is strengthened! If the opposite occurs (a negative correlation) that synapse is weakened instead. With the addition of STDP to a network with traveling waves, directional pathways were formed over time in all cases, which we visualized using vector fields of average weight changes for each region.
 
-### Project 2 - Neuronal traveling waves form preferred pathways using synaptic plasticity - Dissertation Thesis
+### 2 - Neuronal traveling waves form preferred pathways using synaptic plasticity - Dissertation Thesis
 
 This is the dissertation thesis I wrote and defended in order to earn my PhD from Drexel University. It includes all meaningful projects I completed during my time with the Computational Biophysics group. 
 
@@ -75,7 +75,7 @@ This is the dissertation thesis I wrote and defended in order to earn my PhD fro
 6. **Appendix D** - Additional projects, including additional neuron types, synapse models, surrogate gradient learning (BPTT for spiking signals) using PyTorch, and the effects of network damage on wave propagation
 7. **Appendix E** - Visualization of the effects that adjusting various network parameters has on wave propagation
 
-### Project 3 - (Additional Portfolio Projects Forthcoming)
+### 3 - Portfolio Projects - (Additional Portfolio Projects Forthcoming)
 
 - Additional projects demonstrating data analysis and machine learning will be added here
 
