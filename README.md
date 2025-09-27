@@ -10,7 +10,7 @@
 ## Contact
 I look forward to hearing from you!
 
-- Email: [![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:butlerkend14@gmail.com)
+- Email: [![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:kendall.jon.butler@gmail.com)
 - LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/kendall-butler-b4ba63157/)
 - GitHub: [https://github.com/KendallButler98](https://github.com/KendallButler98)
 
@@ -31,20 +31,21 @@ Now that I have earned my PhD, I look forward to taking the next steps in my car
 
 ## Skills:
 
-**Proficient In:**
-- Python (NumPy, Matplotlib, Pandas)
-- Data Analysis
-- Problem Solving
-- Numerical Simulation
-- Communication (teaching, writing)
-
-**Actively Learning:**
+Tools & Languages: 
+- Python
 - SQL
-- Machine Learning (PyTorch, Scikitlearn)
-- SciPy
 - C++
-- MATLAB
-- Power BI
+  
+Technical Skills: 
+- Data Analysis
+- Numerical Simulation
+- Machine Learning
+  
+Core Competencies: 
+- Mentoring
+- Leadership
+- Scientific Communication
+- Project Design
 
 ## Projects
 
@@ -78,10 +79,6 @@ This is the dissertation thesis I wrote and defended in order to earn my PhD fro
 ### 3 - Portfolio Projects - (Additional Portfolio Projects Forthcoming)
 
 - Additional projects demonstrating data analysis and machine learning will be added here
-
---- 
-
-I look forward to connecting!
 
 <nav>
   <a href="#contact">Contact</a> |
